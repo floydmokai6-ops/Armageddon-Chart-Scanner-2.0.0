@@ -1,0 +1,1 @@
+# Armageddon-Chart-Scanner-2.0.0
